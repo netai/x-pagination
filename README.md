@@ -32,7 +32,7 @@ Any ideas are appreciated.
       var xp=require('x-pagination');
 	xp.target('my-product');
 	limit=10;
-	page=(typeof req.params.page!='undefined')?req.params.page:1;
+	page=(typeof req.params.page!='undefined')?parseInt(req.params.page):1;
 	start=(page-1)*limit;
 	xp.limit(limit);//limit for per page
 	xp.currentPage(page);//current page no.
