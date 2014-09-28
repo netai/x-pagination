@@ -1,0 +1,24 @@
+{
+  "name": "x-pagination",
+  "version": "1.0.0",
+  "description": "a simple and easy to use node.js pagination librery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netai/x-pagination.git"
+  },
+  "keywords": ["pagination"],
+  "author": {
+    "name": "Netai Nayek",
+    "email": "net.nayek@gmail.com",
+    "url": "http://netai-nayek.blogspot.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+   "url": "https://github.com/netai/x-pagination/issues"
+  },
+  "homepage": "https://github.com/netai/x-pagination"
+}
