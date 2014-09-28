@@ -1,4 +1,4 @@
-x-image-processing
+x-pagination
 ==================
 
 a simple and easy to use pagination module in node.js and
